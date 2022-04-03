@@ -27,4 +27,4 @@ All code licensed under the [GPL-3.0 License](https://github.com/ihewro/typecho-
 [![GitHub stars](https://img.shields.io/github/stars/ihewro/typecho-theme-handsome.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/stargazers)
 [![helpdocs](https://img.shields.io/badge/Docs-HELP-red.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/wiki/%E4%B8%AD%E6%96%87%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3) 
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ihewro/typecho-theme-handsome/master/LICENSE)
-![qqgroup](https://img.shields.io/badge/QQ群-611102614-red.svg?style=flat-square)
+![qqgroup](https://img.shields.io/badge/QQ群-534984250-red.svg?style=flat-square)
